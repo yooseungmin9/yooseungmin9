@@ -110,6 +110,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yooseungmin9&theme=flat&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooseungmin9&layout=compact&theme=graywhite&hide_border=true" width="42%" />
+
 </div>
 
 
