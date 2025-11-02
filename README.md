@@ -6,8 +6,6 @@
 
 </div>
 
-<br />
-
 ## 👋 소개
 
 저는 **AI 기술로 실질적인 비즈니스 가치를 창출하는 개발자**입니다.
@@ -15,22 +13,17 @@
 데이터 수집 → 전처리 → 분석 → 시각화 → 웹서비스 배포까지 **전체 파이프라인 경험**을 보유하고 있으며,  
 LLM 기술과 데이터 분석을 결합한 지능형 솔루션 개발을 통해 실용적인 AI 서비스를 구현합니다.
 
-<br />
-
 ## 🛠️ Tech Stack
 ```
 tech_stack = {
 "backend": ["Python", "FastAPI", "Java", "Spring Boot"],
-"database": ["MongoDB", "Oracle", "MySQL", "PostgreSQL"],
+"database": ["MongoDB", "Oracle", "MySQL"],
 "ai_ml": ["PyTorch", "TensorFlow", "Scikit-learn", "Transformers"],
 "data_analysis": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
 "cloud_api": ["Google Cloud Platform", "OpenAI API", "Streamlit"],
 "tools": ["Docker", "Git", "Jupyter Notebook", "PyCharm"]
 }
 ```
-
-
-<br />
 
 ## 📊 주요 기술
 
@@ -52,7 +45,6 @@ tech_stack = {
 - 시장 분석 및 사용자 행동변수를 통한 페르소나 분석
 - 사용자 관점 편리하며, 직관적인 대시보드 구성
 
-<br />
 
 ## 📈 GitHub Stats
 
@@ -64,7 +56,6 @@ tech_stack = {
 
 </div>
 
-<br />
 
 ## 📞 Contact
 
@@ -75,8 +66,6 @@ tech_stack = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/yooseungmin9)
 
 </div>
-
-<br />
 
 ---
 
