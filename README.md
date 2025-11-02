@@ -102,7 +102,7 @@
 - 사용자 관점 편리하며, 직관적인 대시보드 구성
 
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -115,7 +115,7 @@
 </div>
 
 
-## 📞 Contact
+## Contact
 
 <div align="center">
 
