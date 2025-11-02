@@ -8,39 +8,77 @@
 
 ## 🛠️ Tech Stack
 
-**Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+<div align="center">
 
-**Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<table>
+<tr>
+<td align="center" width="200"><strong>Backend</strong></td>
+<td align="center" width="500">
 
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=flat&logo=huggingface&logoColor=black)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
 
-**Data Analysis**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003DA5?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat&logoColor=white)
+</td>
+</tr>
+<tr>
+<td align="center" width="200"><strong>Database</strong></td>
+<td align="center" width="500">
 
-**Cloud / API**
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+<img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
-**Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+</td>
+</tr>
+<tr>
+<td align="center" width="200"><strong>AI / ML</strong></td>
+<td align="center" width="500">
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD700?style=flat&logo=huggingface&logoColor=black"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="200"><strong>Data Analysis</strong></td>
+<td align="center" width="500">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-003DA5?style=flat&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-0099CC?style=flat&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="200"><strong>Cloud / API</strong></td>
+<td align="center" width="500">
+
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="200"><strong>Tools</strong></td>
+<td align="center" width="500">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 
 ## 📊 주요 기술
