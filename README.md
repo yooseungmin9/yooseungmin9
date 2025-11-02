@@ -129,7 +129,6 @@ Scikit-learn 클러스터링을 활용한 고객 세분화 및 예측 애플리�
 [![Email](https://img.shields.io/badge/2win0min@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:2win0min@naver.com)
 [![Phone](https://img.shields.io/badge/010--5958--0369-1f6feb?style=flat-square&logo=Phone&logoColor=white)](tel:010-5958-0369)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/yooseungmin9)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/your-channel)
 
 </div>
 
