@@ -18,7 +18,7 @@ LLM 기술과 데이터 분석을 결합한 지능형 솔루션 개발을 통해
 <br />
 
 ## 🛠️ Tech Stack
-
+```
 tech_stack = {
 "backend": ["Python", "FastAPI", "Java", "Spring Boot"],
 "database": ["MongoDB", "Oracle", "MySQL", "PostgreSQL"],
@@ -27,6 +27,7 @@ tech_stack = {
 "cloud_api": ["Google Cloud Platform", "OpenAI API", "Streamlit"],
 "tools": ["Docker", "Git", "Jupyter Notebook", "PyCharm"]
 }
+```
 
 
 <br />
