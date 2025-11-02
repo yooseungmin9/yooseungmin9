@@ -1,9 +1,5 @@
 <div align="center">
 
-# 안녕하세요. 유승민입니다.
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Data+Analyst+%26+LLM+Developer;RAG+Systems+%7C+AI+Chatbots;Building+Practical+AI+Solutions)](https://git.io/typing-svg)
-
 </div>
 
 ## 👋 소개
