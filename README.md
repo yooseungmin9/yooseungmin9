@@ -1,13 +1,10 @@
 <div align="center">
 
+# 안녕하세요. 유승민입니다.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Data+Analyst+%26+LLM+Developer;RAG+Systems+%7C+AI+Chatbots;Building+Practical+AI+Solutions)](https://git.io/typing-svg)
+
 </div>
-
-## 👋 소개
-
-저는 **AI 기술로 실질적인 비즈니스 가치를 창출하는 개발자**입니다.
-
-데이터 수집 → 전처리 → 분석 → 시각화 → 웹서비스 배포까지 **전체 파이프라인 경험**을 보유하고 있으며,  
-LLM 기술과 데이터 분석을 결합한 지능형 솔루션 개발을 통해 실용적인 AI 서비스를 구현합니다.
 
 ## 🛠️ Tech Stack
 ```
