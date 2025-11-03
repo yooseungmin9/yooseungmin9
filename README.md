@@ -112,11 +112,11 @@
 <tr>
 <td width="50%">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseungmin9)](https://github.com/yooseungmin9/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooseungmin9&layout=compact&theme=graywhite&hide_border=true" width="42%" />
 
 </td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooseungmin9&layout=compact&theme=graywhite&hide_border=true" width="42%" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseungmin9)](https://github.com/yooseungmin9/github-readme-stats)
 
 </tr>
 </table>
@@ -139,8 +139,3 @@
 <div align="center">
   <sub>Built with passion for practical AI and data-driven solutions 🚀</sub>
 </div>
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseungmin9)](https://github.com/yooseungmin9/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooseungmin9&layout=compact&theme=graywhite&hide_border=true" width="42%" />
