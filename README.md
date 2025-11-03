@@ -72,7 +72,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-087CFA?style=flat&logo=pycharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-7B2CBF?style=flat&logo=pycharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ%20-FF6B35?style=flat&logo=intellijidea&logoColor=white"/>
 
 
