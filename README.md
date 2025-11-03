@@ -111,8 +111,8 @@
 <table>
 <tr>
 <td width="50%">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseungmin9&theme=graywhite&hide_border=true&align=center)](https://github.com/yooseungmin9/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseungmin9&theme=graywhite&hide_border=true)
 
 </td>
 <td width="50%">
