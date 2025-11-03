@@ -104,19 +104,26 @@
 - 시장 분석 및 사용자 행동변수를 통한 페르소나 분석
 - 사용자 중심의 직관적 인터페이스 설계 및 웹 접근성 고려
 
-
 ## GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yooseungmin9&theme=default&hide_border=true)](https://git.io/streak-stats)
+<table>
+<tr>
+<td width="50%">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseungmin9)](https://github.com/yooseungmin9/github-readme-stats)
 
+</td>
+<td width="50%">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooseungmin9&layout=compact&theme=graywhite&hide_border=true" width="42%" />
 
-</div>
+</td>
+</tr>
+</table>
 
+</div>
 
 ## Contact
 
