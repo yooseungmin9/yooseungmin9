@@ -2,7 +2,7 @@
 
 # Hello! I'm Seungmin Yoo
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains%2BMono&pause=1000&color=0D6EFD&width=435&lines=Data+Analyst+%26+LLM+Developer;RAG+System+%7C+AI+Chatbot;Building+Practical+AI+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains%2BMono&center=true&vCenter=true&pause=1000&color=0D6EFD&width=435&lines=Data+Analyst+%26+LLM+Developer;RAG+System+%7C+AI+Chatbot;Building+Practical+AI+Solutions)](https://git.io/typing-svg)
 
 </div>
 
