@@ -111,13 +111,13 @@
 <table>
 <tr>
 <td width="50%">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseungmin9&layout=compact&theme=graywhite&hide_border=true)
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseungmin9&theme=graywhite&hide_border=true)](https://github.com/yooseungmin9/github-readme-stats)
 
 </td>
 <td width="50%">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseungmin9&theme=graywhite&hide_border=true)](https://github.com/yooseungmin9/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseungmin9&layout=compact&theme=graywhite&hide_border=true)
 
 </td>
 </tr>
