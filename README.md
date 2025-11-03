@@ -73,7 +73,7 @@
 <img src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20-000000?style=flat&logo=intellijidea&logoColor=white"/>
 
 </td>
 </tr>
