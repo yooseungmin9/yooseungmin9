@@ -117,7 +117,7 @@
 </td>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseungmin9&layout=compact&theme=graywhite&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseungmin9&layout=compact&theme=graywhite&hide_border=true?center=true)
 
 </td>
 </tr>
