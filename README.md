@@ -110,14 +110,14 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseungmin9&theme=graywhite&hide_border=true)
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseungmin9&layout=compact&theme=graywhite&hide_border=true&align=center)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseungmin9&layout=compact&theme=graywhite&hide_border=true)
 
 </td>
 </tr>
