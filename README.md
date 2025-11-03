@@ -112,12 +112,14 @@
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yooseungmin9&layout=compact&theme=graywhite&hide_border=true" width="42%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseungmin9&layout=compact&theme=graywhite&hide_border=true)
 
 </td>
+<td width="50%">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseungmin9)](https://github.com/yooseungmin9/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseungmin9&theme=graywhite&hide_border=true)](https://github.com/yooseungmin9/github-readme-stats)
 
+</td>
 </tr>
 </table>
 
