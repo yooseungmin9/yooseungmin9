@@ -104,32 +104,11 @@
 - 시장 분석 및 사용자 행동변수를 통한 페르소나 분석
 - 사용자 중심의 직관적 인터페이스 설계 및 웹 접근성 고려
 
-## GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooseungmin9&theme=graywhite&hide_border=true)
-
-</td>
-<td width="50%" align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yooseungmin9&layout=compact&theme=graywhite&hide_border=true)
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ## Contact
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/2win0min@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:2win0min@gmail.com)
+[![Email](https://img.shields.io/badge/2win0min@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:yoosm9@gmail.com)
 [![Phone](https://img.shields.io/badge/010--5958--0369-1f6feb?style=flat-square&logo=Phone&logoColor=white)](tel:010-5958-0369)
 [![GitHub](https://img.shields.io/badge/GitHub.io-181717?style=flat-square&logo=GitHub&logoColor=white)](https://yooseungmin9.github.io/)
 <img src="https://komarev.com/ghpvc/?username=yooseungmin9&style=flat-square&color=3178C6" alt="Profile Views"/>
