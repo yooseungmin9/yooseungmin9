@@ -87,10 +87,12 @@
 ## 주요 기술
 
 ### 🤖 AI & LLM
-- **RAG 시스템**: Vector Store 기반 문서 검색 및 자동 갱신
-- **Function Calling**: GPT-5 기반 동적 쿼리 처리
-- **음성 인터페이스**: STT/TTS 멀티모달 인터페이스 구현
-- **API 통합**: 실시간 데이터 통합 (DB, OpenAPI 활용)
+- **Framework**: LangChain 기반 RAG 파이프라인 구축
+- **RAG 시스템**: FAISS Vector Store 문서 검색 및 자동 갱신
+- **Tool/Function Calling**: LangChain Agent 기반 동적 함수 호출
+- **LLM**: OpenAI API / Ollama (LLaMA 3.1, Gemma 2) 로컬 추론
+- **음성 인터페이스**: CLOVA STT / Google Cloud TTS 멀티모달 구현
+- **외부 API**: ECOS, FRED, yFinance, PyKRX 실시간 경제 데이터 통합
 
 ### 📊 데이터 분석
 - 자연어 처리 및 텍스트 마이닝 기술 구현
