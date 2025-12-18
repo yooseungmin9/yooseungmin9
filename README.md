@@ -87,11 +87,11 @@
 
 
 ## 주요 기술
-🤖 **AI/LLM**: [금융 챗봇 프로젝트](https://github.com/yooseungmin9/yoo-chatbot-v1/tree/master) LangChain RAG 파이프라인, OpenAI/Ollama 로컬 추론, STT/TTS 멀티모달  
+🤖 **AI/LLM**[금융 챗봇 프로젝트](https://github.com/yooseungmin9/yoo-chatbot-v1/tree/master) - LangChain RAG 파이프라인, OpenAI/Ollama 로컬 추론, STT/TTS 멀티모달  
   
-📊 **데이터분석**: 텍스트 마이닝, 감성분석, 클러스터링, 시각화  
+📊 **데이터분석** - 텍스트 마이닝, 감성분석, 클러스터링, 시각화  
   
-🔧 **웹서비스**: FastAPI + SpringBoot 설계, UI/UX 기획, AWS EC2 배포  
+🔧 **웹서비스** - FastAPI + SpringBoot 설계, UI/UX 기획, AWS EC2 배포  
 
 ## Contact
 
