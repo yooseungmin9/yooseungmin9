@@ -85,26 +85,9 @@
 
 
 ## 주요 기술
-
-### 🤖 AI & LLM
-- **Framework**: LangChain 기반 RAG 파이프라인 구축
-- **RAG 시스템**: FAISS Vector Store 문서 검색 및 자동 갱신
-- **Tool/Function Calling**: LangChain Agent 기반 동적 함수 호출
-- **LLM**: OpenAI API / Ollama (LLaMA 3.1, Gemma 2) 로컬 추론
-- **음성 인터페이스**: CLOVA STT / Google Cloud TTS 멀티모달 구현
-- **외부 API**: ECOS, FRED, yFinance, PyKRX 실시간 경제 데이터 통합
-
-### 📊 데이터 분석
-- 자연어 처리 및 텍스트 마이닝 기술 구현
-- 텍스트 데이터 요약 및 감성/키워드 분석
-- 머신러닝 활용 클러스터링 및 모델링
-- 데이터 전처리 및 다양한 시각화
-- 통계 분석 및 비즈니스 인사이트 도출
-
-### 🔧 웹서비스 기획 및 UI/UX 설계
-- SpringBoot + FastAPI 기반 웹서비스 아키텍처 설계
-- 시장 분석 및 사용자 행동변수를 통한 페르소나 분석
-- 사용자 중심의 직관적 인터페이스 설계 및 웹 접근성 고려
+🤖 **AI/LLM**: LangChain RAG 파이프라인, OpenAI/Ollama 로컬 추론, STT/TTS 멀티모달
+📊 **데이터분석**: 텍스트 마이닝, 감성분석, 클러스터링, 시각화
+🔧 **웹서비스**: FastAPI + SpringBoot 설계, UI/UX 기획, AWS EC2 배포
 
 ## Contact
 
