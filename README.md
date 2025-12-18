@@ -36,8 +36,9 @@
 <td align="center" width="200"><strong>AI / ML</strong></td>
 <td align="center" width="500">
 
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Transformers-FFD700?style=flat&logo=huggingface&logoColor=black"/>
 
@@ -58,6 +59,7 @@
 <td align="center" width="200"><strong>Cloud / API</strong></td>
 <td align="center" width="500">
 
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
