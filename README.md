@@ -35,9 +35,6 @@
 - **Agent Workflow**  
   Agent가 검색·데이터 조회·요약·알림 같은 작업을 도구와 연결해 수행하는 흐름을 실험하고 있습니다.
 
-- **Notification Automation**  
-  수집한 정보를 간단히 정리해 Slack 등 협업 도구로 전달하는 자동화 방식을 만들어 보고 있습니다.
-
 - **Responsible Automation**  
   자동화 과정에서도 보안, 권한, 검토 절차를 고려하며 사람의 판단을 돕는 도구를 지향합니다.
 
