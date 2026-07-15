@@ -2,47 +2,47 @@
 
 # Hello, I'm Seungmin Yoo 👋
 
-### Data Analyst · LLM Developer · Automation Builder
+### Learning Data Analysis, LLM, and Automation
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains%2BMono&center=true&vCenter=true&pause=1000&color=0D6EFD&width=600&lines=Data+Analysis+%7C+LLM+%7C+RAG+Systems;AI+Agents+%7C+Workflow+Automation;Building+Practical%2C+Data-Driven+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains%2BMono&center=true&vCenter=true&pause=1000&color=0D6EFD&width=600&lines=Learning+Data+Analysis+%26+LLM;Exploring+RAG+%7C+AI+Agents+%7C+Automation;Building+and+Learning+Step+by+Step)](https://git.io/typing-svg)
 
 <br/>
 
-> **Turning data and AI into practical workflows.**  
-> 데이터 분석과 LLM 기반 AI 에이전트로 반복 업무를 줄이고, 더 나은 의사결정을 돕는 서비스를 만듭니다.
+> 데이터 분석과 AI 기술을 학습하며,  
+> 작은 문제를 직접 해결하는 서비스와 자동화 도구를 만들어가고 있습니다.
 
 </div>
 
 ---
 
-## 🧭 Focus
+## 🌱 Interests
 
-- **LLM / RAG** — LangChain 기반 RAG 파이프라인, OpenAI API 및 Ollama 로컬 LLM 활용
-- **AI Agents** — 데이터 수집, 분석, 요약, 알림을 연결하는 에이전트 워크플로우 설계
-- **Workflow Automation** — 문서·뉴스·일정·현황 데이터 자동화 및 Slack 연동
-- **Data Analysis** — 텍스트 마이닝, 감성 분석, 클러스터링, 데이터 시각화
-- **Backend & Service** — FastAPI, Spring Boot 기반 API 및 웹서비스 설계·배포
+- **Data Analysis** — 데이터를 정리하고, 패턴을 찾고, 이해하기 쉽게 시각화하는 과정에 관심이 있습니다.
+- **LLM / RAG** — LangChain, OpenAI API, Ollama 등을 활용해 문서 기반 질의응답과 RAG 시스템을 학습하고 있습니다.
+- **AI Agents** — 데이터 수집부터 분석·요약·알림까지 연결하는 에이전트 워크플로우를 구현해 보고 있습니다.
+- **Workflow Automation** — 반복되는 정보 수집·정리·전달 업무를 줄이는 자동화 방법을 탐구하고 있습니다.
+- **Backend Development** — FastAPI와 Spring Boot를 활용해 API와 데이터 기반 서비스를 만들어 보고 있습니다.
 
-## 🤖 Automation & AI Agents
+## 🤖 Exploring Automation & Agents
 
-> 반복 업무는 자동화하고, 사람은 판단과 문제 해결에 더 집중할 수 있도록 만듭니다.
+> 기술을 과시하기보다, 실제로 도움이 되는 작은 자동화부터 꾸준히 구현해 보고자 합니다.
 
-- **Data Pipeline Automation**  
-  DART, ECOS, FRED, yfinance 등 다양한 데이터 소스를 수집·정제·저장하는 ETL 파이프라인 설계
+- **Data Collection & ETL**  
+  경제·금융 데이터를 수집하고, 분석에 활용할 수 있도록 정제·저장하는 데이터 파이프라인을 학습하고 있습니다.
 
-- **RAG-based Knowledge Assistant**  
-  문서 및 데이터베이스를 검색하고, 근거 기반 답변을 제공하는 RAG 챗봇·지식 검색 시스템 구현
+- **RAG-based Assistant**  
+  문서 내용을 검색하고 출처를 바탕으로 답변하는 RAG 챗봇을 구현하며 검색·임베딩·벡터 데이터베이스 구조를 익히고 있습니다.
 
-- **Agentic Workflow**  
-  LLM이 데이터 조회, 분석, 요약, 리포트 생성, 알림 발송 등의 작업을 순차적으로 수행하는 에이전트 구축
+- **LLM Workflow**  
+  LLM이 데이터 조회, 요약, 간단한 리포트 작성 같은 단계를 수행하도록 워크플로우를 구성해 보고 있습니다.
 
-- **Slack Notification Automation**  
-  뉴스 및 시장 데이터를 분석해 핵심 변화와 인사이트를 정리하고 Slack으로 전달하는 자동화 시스템 개발
+- **Notification Automation**  
+  수집한 뉴스와 데이터를 정리해 Slack 등 협업 도구로 전달하는 자동화 흐름을 실험하고 있습니다.
 
-- **Secure Automation Mindset**  
-  보안 정책과 권한 체계를 고려하여, 민감 정보 처리와 사람의 검토가 필요한 업무를 분리한 업무 보조 도구 설계
+- **Responsible Automation**  
+  업무 자동화에서는 보안, 권한 관리, 검토 절차가 중요하다고 생각하며, 사람의 판단을 돕는 보조 도구를 지향합니다.
 
-## 🛠 Tech Stack
+## 🛠 Learning & Using
 
 ### Backend & Database
 
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 </p>
 
-### Cloud · Tools · Collaboration
+### Tools & Deployment
 
 <p>
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
@@ -84,11 +84,12 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
-## 📌 Currently Building
+## 📚 Currently Learning & Building
 
-- **Financial Intelligence Agent** — 경제·금융 API 데이터를 수집하고, LLM 기반으로 분석·요약하여 인사이트를 제공하는 에이전트
-- **Stock News Automation** — 삼성전자 및 SK하이닉스 관련 뉴스를 수집·분석하고 주가 데이터와 함께 Slack으로 전달하는 시스템
-- **Knowledge RAG System** — 문서 검색과 출처 기반 답변을 지원하는 실무형 AI 챗봇
+- **Financial Data Pipeline** — DART, ECOS, FRED, yfinance 등의 데이터를 수집·정리하고 분석에 활용하는 과정을 학습 중입니다.
+- **Financial News Automation** — 특정 기업 관련 뉴스를 수집하고, 요약 결과와 주가 데이터를 함께 살펴보는 자동화 프로젝트를 구상·구현 중입니다.
+- **RAG Knowledge Assistant** — 문서를 기반으로 질문에 답할 수 있는 검색 증강 생성 시스템을 만들어 보고 있습니다.
+- **LLM Agent Workflow** — LLM, 데이터베이스, API, 알림 도구를 연결해 실용적인 업무 보조 흐름을 실험하고 있습니다.
 
 ## 📫 Contact
 
@@ -102,5 +103,5 @@
 </div>
 
 <div align="center">
-  <sub>Building practical AI solutions with data, automation, and agents. 🚀</sub>
+  <sub>Learning by building, one project at a time. 🚀</sub>
 </div>
