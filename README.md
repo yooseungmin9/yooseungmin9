@@ -2,45 +2,44 @@
 
 # Hello, I'm Seungmin Yoo 👋
 
-### Learning Data Analysis, LLM, and Automation
+### Learning Data Analysis, AI Agents, and Automation
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains%2BMono&center=true&vCenter=true&pause=1000&color=0D6EFD&width=600&lines=Learning+Data+Analysis+%26+AI;Exploring+RAG+%7C+AI+Agents+%7C+Automation;Building+and+Learning+Step+by+Step)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains%2BMono&center=true&vCenter=true&pause=1000&color=0D6EFD&width=620&lines=Learning+Data+Analysis+%26+AI+Agents;Exploring+RAG+%7C+Tool+Calling+%7C+Automation;Building+and+Learning+Step+by+Step)](https://git.io/typing-svg)
 
 <br/>
 
 > 데이터 분석과 AI 기술을 학습하며,  
-> 작은 문제를 직접 해결하는 서비스와 자동화 도구를 만들어가고 있습니다.
+> 일상과 업무의 작은 문제를 해결할 수 있는 도구를 만들어 보고 있습니다.
 
 </div>
 
 ---
 
-## 🌱 Interests
+## 🌱 What I'm Learning
 
-- **Data Analysis** — 데이터를 정리하고, 패턴을 찾고, 이해하기 쉽게 시각화하는 과정에 관심이 있습니다.
-- **LLM / RAG** — LangChain, OpenAI API, Ollama 등을 활용해 문서 기반 질의응답과 RAG 시스템을 학습하고 있습니다.
-- **AI Agents** — 데이터 수집부터 분석·요약·알림까지 연결하는 에이전트 워크플로우를 구현해 보고 있습니다.
-- **Workflow Automation** — 반복되는 정보 수집·정리·전달 업무를 줄이는 자동화 방법을 탐구하고 있습니다.
-- **Backend Development** — FastAPI와 Spring Boot를 활용해 API와 데이터 기반 서비스를 만들어 보고 있습니다.
+- **Data Analysis** — 데이터를 정리하고, 패턴을 찾고, 시각화하는 과정을 학습하고 있습니다.
+- **AI Agents & RAG** — 문서 검색, Tool Calling, 외부 API 연동을 활용한 AI Agent 구조를 공부하고 있습니다.
+- **Workflow Automation** — 반복적인 정보 수집·정리·전달 과정을 자동화하는 방법에 관심이 있습니다.
+- **Backend Development** — FastAPI와 Spring Boot로 데이터와 기능을 연결하는 API를 만들어 보고 있습니다.
 
-## 🤖 Exploring Automation & Agents
+## 🤖 Exploring AI Agents
 
-> 기술을 과시하기보다, 실제로 도움이 되는 작은 자동화부터 꾸준히 구현해 보고자 합니다.
+> 복잡한 기능보다, 실제로 쓸 수 있는 작은 자동화부터 직접 구현하며 배우고 있습니다.
 
 - **Data Collection & ETL**  
-  경제·금융 데이터를 수집하고, 분석에 활용할 수 있도록 정제·저장하는 데이터 파이프라인을 학습하고 있습니다.
+  API, 웹 스크래핑, 파일, 공개 데이터 등 여러 소스에서 정보를 수집하고 정제·저장하는 흐름을 학습하고 있습니다.
 
 - **RAG-based Assistant**  
-  문서 내용을 검색하고 출처를 바탕으로 답변하는 RAG 챗봇을 구현하며 검색·임베딩·벡터 데이터베이스 구조를 익히고 있습니다.
+  문서와 지식 데이터를 검색하고, 관련 내용을 바탕으로 답변하는 RAG 기반 기능을 구현해 보고 있습니다.
 
-- **LLM Workflow**  
-  LLM이 데이터 조회, 요약, 간단한 리포트 작성 같은 단계를 수행하도록 워크플로우를 구성해 보고 있습니다.
+- **Agent Workflow**  
+  Agent가 검색·데이터 조회·요약·알림 같은 작업을 도구와 연결해 수행하는 흐름을 실험하고 있습니다.
 
 - **Notification Automation**  
-  수집한 뉴스와 데이터를 정리해 Slack 등 협업 도구로 전달하는 자동화 흐름을 실험하고 있습니다.
+  수집한 정보를 간단히 정리해 Slack 등 협업 도구로 전달하는 자동화 방식을 만들어 보고 있습니다.
 
 - **Responsible Automation**  
-  업무 자동화에서는 보안, 권한 관리, 검토 절차가 중요하다고 생각하며, 사람의 판단을 돕는 보조 도구를 지향합니다.
+  자동화 과정에서도 보안, 권한, 검토 절차를 고려하며 사람의 판단을 돕는 도구를 지향합니다.
 
 ## 🛠 Learning & Using
 
@@ -54,14 +53,12 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 </p>
 
-### AI · LLM · Data
+### AI · Data
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
@@ -75,7 +72,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
@@ -84,12 +80,19 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
-## 📚 Currently Learning & Building
+## 📚 Currently Building
 
-- **Financial Data Pipeline** — DART, ECOS, FRED, yfinance 등의 데이터를 수집·정리하고 분석에 활용하는 과정을 학습 중입니다.
-- **Financial News Automation** — 특정 기업 관련 뉴스를 수집하고, 요약 결과와 주가 데이터를 함께 살펴보는 자동화 프로젝트를 구상·구현 중입니다.
-- **RAG Knowledge Assistant** — 문서를 기반으로 질문에 답할 수 있는 검색 증강 생성 시스템을 만들어 보고 있습니다.
-- **LLM Agent Workflow** — LLM, 데이터베이스, API, 알림 도구를 연결해 실용적인 업무 보조 흐름을 실험하고 있습니다.
+- **Data Collection Pipeline**  
+  API, 웹 스크래핑, 파일 등 다양한 소스의 데이터를 수집하고 정리하는 파이프라인을 학습하고 있습니다.
+
+- **Information Monitoring Automation**  
+  관심 주제의 뉴스·공지·문서 변화를 수집하고, 핵심 내용을 요약해 전달하는 자동화 기능을 만들어 보고 있습니다.
+
+- **RAG Knowledge Assistant**  
+  문서를 검색하고 질문에 답할 수 있는 간단한 지식 검색 도구를 구현하고 있습니다.
+
+- **AI Agent Workflow**  
+  Agent가 데이터베이스, API, 검색·알림 도구를 활용해 반복 작업을 보조하는 흐름을 실험하고 있습니다.
 
 ## 📫 Contact
 
