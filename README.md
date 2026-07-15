@@ -18,7 +18,7 @@
 ## 🌱 Interests
 
 - **Data Analysis** — 데이터를 정리하고, 패턴을 찾고, 시각화하는 과정
-- **AI Agents & RAG** — 정보 검색과 데이터 활용을 통해 업무를 보조하는 Agent 시스템
+- **AI Agents & RAG** — 데이터 활용과 여러 도구를 통해 업무를 보조하는 Agent 시스템
 - **Workflow Automation** — 데이터와 Agent를 활용해 반복적인 업무를 보조·자동화하는 방법
 - **Backend & Data Engineering** — API, 데이터베이스, 데이터 처리 흐름을 연결하는 과정
 
