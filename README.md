@@ -19,7 +19,7 @@
 
 - **Data Analysis** — 데이터를 정리하고, 패턴을 찾고, 시각화하는 과정
 - **AI Agents & RAG** — 검색, Tool Calling, 외부 API를 연결하는 Agent 구조
-- **Workflow Automation** — 반복적인 정보 수집과 정리 과정을 효율화하는 방법
+- **Workflow Automation** — 데이터와 Agent를 활용해 반복적인 업무를 보조·자동화하는 방법
 - **Backend & Data Engineering** — API, 데이터베이스, 데이터 처리 흐름을 연결하는 과정
 
 ## 📖 Learning Focus
