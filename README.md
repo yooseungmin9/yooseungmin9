@@ -4,7 +4,7 @@
 
 ### Area of Interest - Data Analysis & Agents
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains%2BMono&center=true&vCenter=true&pause=1000&color=0D6EFD&width=620&lines=Learning+Data+Analysis+%26+Agents;Exploring+RAG+%7C+Tool+Calling+%7C+Automation;Building+Small+Tools+Step+by+Step)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains%2BMono&center=true&vCenter=true&pause=1000&color=0D6EFD&width=620&lines=Learning+Data+Analysis+%26+Agents;Exploring+Data+Pipelines+%7C+RAG+%7C+Automation;Building+Small+Tools+Step+by+Step)](https://git.io/typing-svg)
 
 <br/>
 
