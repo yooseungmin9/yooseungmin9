@@ -17,26 +17,26 @@
 
 ## 🌱 Interests
 
-- **Data Analysis** — 데이터를 정리하고, 패턴을 찾고, 시각화하는 과정을 학습하고 있습니다.
-- **Agents & RAG** — 문서 검색, Tool Calling, 외부 API 연동을 활용한 Agent 구조를 공부하고 있습니다.
-- **Workflow Automation** — 반복적인 정보 수집·정리·전달 과정을 자동화하는 방법을 탐구하고 있습니다.
-- **Backend Development** — FastAPI와 Spring Boot를 활용해 데이터와 기능을 연결하는 API를 만들어 보고 있습니다.
+- **Data Analysis** — 데이터를 정리하고, 패턴을 찾고, 시각화하는 과정에 관심이 있습니다.
+- **Agents & RAG** — 문서 검색, Tool Calling, 외부 API 연동을 활용한 Agent 구조를 학습하고 있습니다.
+- **Workflow Automation** — 반복적인 정보 수집과 정리 과정을 효율화하는 방법을 탐구하고 있습니다.
+- **Backend Development** — FastAPI와 Spring Boot를 활용해 데이터와 기능을 연결하는 API를 공부하고 있습니다.
 
-## 🤖 Exploring
+## 📖 What I'm Learning
 
-> 작은 자동화와 Agent 기능을 직접 구현하며, 실제 문제를 해결하는 방법을 배우고 있습니다.
+> 작은 기능을 직접 구현하며 데이터와 Agent 기반 시스템의 흐름을 이해하고 있습니다.
 
 - **Data Collection & ETL**  
-  API, 웹 스크래핑, 파일, 공개 데이터 등 여러 소스에서 정보를 수집하고 정제·저장하는 흐름을 학습하고 있습니다.
+  API, 웹 스크래핑, 파일, 공개 데이터 등 여러 소스에서 정보를 수집하고 정제·저장하는 과정을 학습하고 있습니다.
 
 - **RAG-based Assistant**  
   문서와 지식 데이터를 검색하고, 관련 정보를 바탕으로 답변하는 지식 검색 기능을 구현해 보고 있습니다.
 
 - **Agent Workflow**  
-  검색, 데이터 조회, 요약, 알림 등의 작업을 도구와 연결해 수행하는 워크플로우를 실험하고 있습니다.
+  검색, 데이터 조회, 요약 같은 작업을 필요한 도구와 연결하는 Agent 워크플로우를 실험하고 있습니다.
 
 - **Responsible Automation**  
-  보안, 권한, 검토 절차를 고려하며 사람의 판단을 보조하는 자동화 도구를 지향합니다.
+  자동화 과정에서 보안, 권한, 검토 절차를 고려하며 사람의 판단을 돕는 방향을 고민하고 있습니다.
 
 ## 🛠 Tech Stack
 
@@ -76,12 +76,19 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
-## 📚 Currently Building
+## 🧩 Small Projects
 
-- **Data Collection Pipeline** — API, 웹 스크래핑, 파일 등 여러 데이터 소스를 수집하고 정리하는 흐름을 학습하고 있습니다.
-- **Information Monitoring** — 관심 주제의 뉴스·공지·문서 변화를 수집하고 핵심 내용을 정리하는 기능을 만들어 보고 있습니다.
-- **RAG Knowledge Assistant** — 문서를 검색하고 질문에 답할 수 있는 간단한 지식 검색 도구를 구현하고 있습니다.
-- **Agent Workflow** — 데이터베이스, API, 검색 도구를 연결해 반복 작업을 보조하는 흐름을 실험하고 있습니다.
+- **Data Collection Pipeline**  
+  API, 웹 스크래핑, 파일 등 여러 데이터 소스를 수집하고 정리하는 흐름을 구현하며 학습하고 있습니다.
+
+- **Information Monitoring**  
+  관심 주제의 뉴스·공지·문서 변화를 수집하고 핵심 내용을 정리하는 기능을 만들어 보고 있습니다.
+
+- **RAG Knowledge Assistant**  
+  문서를 검색하고 질문에 답할 수 있는 간단한 지식 검색 도구를 구현하고 있습니다.
+
+- **Agent Workflow**  
+  데이터베이스, API, 검색 도구를 연결해 반복 작업을 보조하는 흐름을 실험하고 있습니다.
 
 ## 📫 Contact
 
