@@ -76,20 +76,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
-## 🧩 Small Projects
-
-- **Data Collection Pipeline**  
-  여러 데이터 소스를 수집하고 정리하는 흐름을 구현하며 학습하고 있습니다.
-
-- **Information Monitoring**  
-  관심 주제의 뉴스·공지·문서 변화를 수집하고 핵심 내용을 정리하는 기능을 만들어 보고 있습니다.
-
-- **RAG Knowledge Assistant**  
-  문서 기반 질문에 답할 수 있는 간단한 지식 검색 도구를 구현하고 있습니다.
-
-- **Agent Workflow**  
-  데이터베이스와 API, 검색 도구를 연결해 반복 작업을 보조하는 흐름을 실험하고 있습니다.
-
 ## 📫 Contact
 
 <div align="center">
