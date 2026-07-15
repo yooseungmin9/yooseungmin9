@@ -4,7 +4,7 @@
 
 ### Learning Data Analysis, LLM, and Automation
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains%2BMono&center=true&vCenter=true&pause=1000&color=0D6EFD&width=600&lines=Learning+Data+Analysis+%26+LLM;Exploring+RAG+%7C+AI+Agents+%7C+Automation;Building+and+Learning+Step+by+Step)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains%2BMono&center=true&vCenter=true&pause=1000&color=0D6EFD&width=600&lines=Learning+Data+Analysis+%26+AI;Exploring+RAG+%7C+AI+Agents+%7C+Automation;Building+and+Learning+Step+by+Step)](https://git.io/typing-svg)
 
 <br/>
 
