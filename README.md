@@ -20,7 +20,7 @@
 - **Data Analysis** — 데이터를 정리하고, 패턴을 찾고, 시각화하는 과정에 관심이 있습니다.
 - **Agents & RAG** — 문서 검색, Tool Calling, 외부 API 연동을 활용한 Agent 구조를 학습하고 있습니다.
 - **Workflow Automation** — 반복적인 정보 수집과 정리 과정을 효율화하는 방법을 탐구하고 있습니다.
-- **Backend Development** — FastAPI와 Spring Boot를 활용해 데이터와 기능을 연결하는 API를 공부하고 있습니다.
+- **Backend & Data Engineering** — API 개발과 데이터베이스 설계·구축을 학습하며, 데이터를 수집·저장·활용하는 역량을 키워가고 있습니다.
 
 ## 📖 What I'm Learning
 
