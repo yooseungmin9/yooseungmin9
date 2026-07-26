@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Seungmin Yoo 👋
+# Hello, I'm Seungmin Yoo
 
 **데이터 파이프라인과 AI Agent 시스템을 만드는 개발자**
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🔨 Featured Projects
+## Featured Projects
 
 | 프로젝트 | 설명 | 스택 |
 |---|---|---|
@@ -20,14 +20,14 @@
 | **[econ-helper](https://github.com/yooseungmin9/econ-helper)** | **DART·ECOS·FRED 금융 데이터 수집·정제 ETL 파이프라인**과 **시그널 분석**을 구현하고, 분석 결과를 **Slack으로 자동 전송** | Python · Pandas · SQL |
 | **[nara-detector](https://github.com/yooseungmin9/nara-detector)** | 나라장터 입찰공고를 수집·분석하고 사내 솔루션과 매칭해 제안서 초안을 생성·검증하는 **하이브리드 AI Agent**. **로컬 LLM과 대형 API 모델의 교차 검증**, **독립 2경로 문서 추출**, **Human-in-the-loop 승인 워크플로우** 구현 | FastAPI · PostgreSQL/pgvector · Ollama |
 
-## 🌱 Interests
+## Interests
 
 - **AI Agents & RAG** — 검색·데이터 조회·검증 도구를 오케스트레이션하는 Agent 워크플로우
 - **Data Engineering** — API·문서·공개 데이터를 수집하고 정제·적재하는 ETL 파이프라인
 - **Responsible Automation** — 근거 검증, 승인 절차, 실행 이력 기록을 갖춘 신뢰 가능한 자동화
 - **Backend** — FastAPI·Spring Boot 기반 API 설계와 데이터베이스 최적화
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend & Database**
 
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
-## 📫 Contact
+## Contact
 
 <div align="center">
 
