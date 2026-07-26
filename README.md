@@ -29,7 +29,7 @@
 
 ## Tech Stack
 
-**Backend & Database**
+- **Backend & Database**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-**Agents & Data**
+- **Agents & Data**
 
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 </p>
 
-**Tools & Deployment**
+- **Tools & Deployment**
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
