@@ -16,7 +16,7 @@
 | 프로젝트 | 설명 | 스택 |
 |---|---|---|
 | **[nara-detector](https://github.com/yooseungmin9/nara-detector)** | 나라장터 입찰공고를 수집·분석하고, 사내 솔루션과 매칭해 제안서 초안을 생성·검증하는 하이브리드 AI Agent. 로컬 LLM과 대형 API 모델의 교차 검증, 독립 2경로 문서 추출, Human-in-the-loop 승인 워크플로우 구현 | FastAPI · PostgreSQL/pgvector · Ollama |
-| **[SUMMARIX (yoo-chatbot-v1)](https://github.com/yooseungmin9/yoo-chatbot-v1)** | AI 기반 경제 뉴스 분석 챗봇 웹서비스. 뉴스·주가·환율·경제지표를 자연어로 질문하면 규칙 기반 도구 라우팅과 RAG 문서 검색으로 답변. 음성 대화(STT/TTS) 지원, AWS EC2 실배포 | FastAPI · Spring Boot · Ollama · FAISS · MongoDB |
+| **[SUMMARIX  (yoo-chatbot-v1)](https://github.com/yooseungmin9/yoo-chatbot-v1)** | AI 기반 경제 뉴스 분석 챗봇 웹서비스. 뉴스·주가·환율·경제지표를 자연어로 질문하면 규칙 기반 도구 라우팅과 RAG 문서 검색으로 답변. 음성 대화(STT/TTS) 지원, AWS EC2 실배포 경험 | FastAPI · Spring Boot · Ollama · FAISS · MongoDB |
 | **[quant-bot](https://github.com/yooseungmin9/quant-bot)** | 금융 데이터(DART·ECOS·FRED) 수집·정제 ETL 파이프라인과 시그널 분석 | Python · Pandas · SQL |
 
 ## 🌱 Interests
