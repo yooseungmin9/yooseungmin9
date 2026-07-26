@@ -2,7 +2,13 @@
 
 # Hello, I'm Seungmin Yoo
 
-**데이터 파이프라인과 AI Agent 시스템을 만드는 개발자**
+<div align="center">
+
+\[
+\color[rgb]{0.051, 0.431, 0.992}{\textbf{\text{데이터 파이프라인과 AI Agent 시스템을 만드는 개발자}}}
+\]
+
+</div>
 
 데이터 수집부터 분석, 검증, 자동화까지 —
 사람의 판단을 보조하는 신뢰 가능한 Agent 시스템을 만듭니다.
