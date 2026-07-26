@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Seungmin Yoo
+# Hello, I'm Seungmin Yoo 👋
 
 **데이터 파이프라인과 AI Agent 시스템을 만드는 개발자**
 
