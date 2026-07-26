@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, I'm Seungmin Yoo ;3
+# Hello, I'm Seungmin Yoo
 
 
 ### Area of Interest - Data Analysis & AI Agents
